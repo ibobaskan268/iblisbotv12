@@ -1,0 +1,1 @@
+Bu altyapıda token yeri .env kısmındadır ayarlar.jsonu boşa karıştırmayın
